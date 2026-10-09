@@ -2,7 +2,7 @@
 
 Travail pratique du cours **Statistiques et data mining** (9.3.1.A), Master Humanités numériques, Centre d'Études Supérieures de la Renaissance (CESR), Université de Tours, 2026-2027.
 
-Enseignants : Carlos-Emiliano González-Gallardo et Farida Zehraoui.
+Enseignant : Farida Zehraoui.
 
 ## Objectif
 
@@ -33,12 +33,13 @@ soit 1778 messages.
 
 ## Structure du dépôt
 
+```text
 TP1_data-mining/
-├── TP-1_Machine-Learning.ipynb
-├── figures/ 
-├── requirements.txt  
+├── TP-1_Machine-Learning.ipynb   # notebook du TP
+├── figures/                      # figures générées
+├── requirements.txt              # dépendances Python
 └── README.md
-
+```
 
 
 ## Installation
@@ -46,7 +47,7 @@ TP1_data-mining/
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/TON-PSEUDO/TP1_data-mining.git
+git clone https://github.com/kossi-ctrl/TP1_data-mining.git
 cd TP1_data-mining
 ```
 
@@ -72,7 +73,6 @@ jupyter notebook
 
 Ouvrir `TP-1_Machine-Learning.ipynb` et exécuter les cellules dans l'ordre.
 
-Au premier lancement, le jeu de données 20 Newsgroups est téléchargé automatiquement par scikit-learn : une connexion Internet est nécessaire.
 
 ## Auteurs
 
