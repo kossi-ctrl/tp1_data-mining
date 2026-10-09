@@ -34,9 +34,9 @@ soit 1778 messages.
 ## Structure du dépôt
 
 TP1_data-mining/
-├── TP-1_Machine-Learning.ipynb # notebook du TP
-├── figures/ # figures générées
-├── requirements.txt # dépendances Python
+├── TP-1_Machine-Learning.ipynb
+├── figures/ 
+├── requirements.txt  
 └── README.md
 
 
